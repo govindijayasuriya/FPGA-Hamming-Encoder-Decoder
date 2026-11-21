@@ -1,0 +1,18 @@
+# Vivado generated files
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+
+# Generated FPGA files
+*.bit
+*.bin
+
+# Windows
+Thumbs.db
+Desktop.ini
